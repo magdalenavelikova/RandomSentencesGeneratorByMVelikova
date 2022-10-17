@@ -1,0 +1,2 @@
+# RandomSentencesGeneratorByMVelikova
+Sentences Generator Code
